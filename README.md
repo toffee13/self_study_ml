@@ -5,7 +5,7 @@
 ### Supervised Learning  
  - Learning with labeled examples (Training Set)
  - Most common problem type in ML
- - e.g) Image Labeling
+ - e.g) Image Labeling, AlphaGo
 
 ### Unsupervised Learning : un-labeled data  
  - e.g) Google news grouping / Workld clustering  
