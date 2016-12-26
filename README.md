@@ -11,7 +11,8 @@
      - Linear Regression
        H(x) = Wx + b  
        Cost function(Loss function) - 세운 가설과 실제 데이터가 얼마나 다른지 비교  
-       (H(x) - y)²
+       (H(x) - y)² - 음수나 양수에 관계 없이 차이를 양수로 표현하기 위해
+                   - 차이가 커질 때 페널티를 더 부여하기 위해
   
    - Binary Classification : `이원화 구분` (e.g - Pass / Non-Pass)
    - Multi-Labeled Classification : `레이블화된 구분` (e.g - A, B, C, D, F)
