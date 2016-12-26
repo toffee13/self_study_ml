@@ -8,7 +8,7 @@
  - e.g) Image Labeling, AlphaGo
  - Types of Supervised Learning
    - Regression(회귀 분석) : `범위별 구분` (e.g - 0~100)  
-     - Linear Regression
+     - Linear Regression  
        H(x) = Wx + b  
        
        Cost function(Loss function) - 세운 가설과 실제 데이터가 얼마나 다른지 비교  
